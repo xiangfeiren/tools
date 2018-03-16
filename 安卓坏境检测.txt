@@ -1,0 +1,9 @@
+JDK java version 
+    javac version 
+Ndk ndk-build
+
+sdk adb version 
+
+python
+
+
